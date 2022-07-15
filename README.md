@@ -23,13 +23,6 @@ To start the game you need web server, personally I use Web Server for Chrome.
 * remove()
 * contains()
 
-
-### Are there any course requirements or prerequisites?
-* This is a course for people who have never coded and would like to learn
-
-### Who this course is for:
-* For complete beginners curious about JavaScript
-
 ### MIT Licence
 
 Copyright (c) 2022 Kiril Yordanov
